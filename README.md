@@ -1,3 +1,3 @@
 # SpringSecutiryWithJWT
-Project spring security framework with jason web token
-Simple Example
+Simple Example project spring security with jason web token
+
